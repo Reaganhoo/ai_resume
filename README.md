@@ -46,14 +46,17 @@ Resume (PDF) → PyMuPDF (extract text) → Knowledge Base (RAG) → Phi-2 (LLM)
 ```bash
 https://github.com/Reaganhoo/ai_resume.git
 cd ai_resume
+```
 
 ###2️⃣ Install dependencies
 ```bash
 pip install -r requirements.txt
+```
 
 ###3️⃣ Run the app
 ```bash
-prototype app.py
+prototype prototype.py
+```
 
 Gradio will launch on:
 👉 http://127.0.0.1:7860 (local)
