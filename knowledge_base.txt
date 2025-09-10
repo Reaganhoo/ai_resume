@@ -1,0 +1,38 @@
+[Job Description: Software Engineer]
+- Responsibilities: Design, develop, test, and maintain software applications. Collaborate with cross-functional teams to deliver scalable solutions. Debug and optimize performance.
+- Qualifications: Bachelor’s degree in Computer Science, Software Engineering, or related field. Strong coding skills in Java, C++, or Python. Knowledge of databases and version control (Git). Problem-solving mindset.
+
+[Job Description: Data Analyst]
+- Responsibilities: Collect, clean, and analyze data to provide insights for business decisions. Build dashboards and reports. Support departments with data-driven strategies.
+- Qualifications: Bachelor’s degree in Statistics, Mathematics, Data Science, or related discipline. Proficiency in SQL, Excel, and data visualization tools (Power BI, Tableau). Strong analytical and communication skills.
+
+[Job Description: AI / Machine Learning Engineer]
+- Responsibilities: Develop and deploy machine learning models. Work with large datasets to improve predictive accuracy. Research new AI methods for optimization.
+- Qualifications: Bachelor’s or Master’s in Computer Science, AI, Data Science, or Mechatronics Engineering. Strong coding in Python (TensorFlow, PyTorch). Experience with cloud services (AWS, Azure, GCP). Familiarity with NLP and CV tasks.
+
+[Job Description: Mechanical Engineer]
+- Responsibilities: Design and test mechanical systems and components. Conduct simulations and prepare technical reports. Support manufacturing and maintenance teams.
+- Qualifications: Bachelor’s degree in Mechanical Engineering. Proficiency in CAD software (SolidWorks, AutoCAD). Knowledge of thermodynamics, fluid mechanics, and materials. Good project management skills.
+
+[Job Description: Electrical / Electronics Engineer]
+- Responsibilities: Design and troubleshoot electrical circuits. Test and validate PCB layouts. Ensure compliance with safety standards.
+- Qualifications: Bachelor’s degree in Electrical/Electronic Engineering. Knowledge of embedded systems, PLCs, and microcontrollers. Familiarity with MATLAB/Simulink. Ability to read and prepare circuit diagrams.
+
+[Job Description: Civil Engineer]
+- Responsibilities: Plan, design, and supervise construction projects. Prepare structural analysis and cost estimations. Ensure compliance with Malaysian building codes and safety regulations.
+- Qualifications: Bachelor’s degree in Civil Engineering. Knowledge of construction materials and structural analysis tools. Good teamwork and leadership skills. Familiarity with CIDB regulations is a plus.
+
+[Career Tips: Resume Writing for Engineers in Malaysia]
+- Keep resumes to 1–2 pages. 
+- Emphasize technical projects, internships, and final year projects. 
+- Highlight certifications (e.g., Professional Engineer with BEM, PMP, AWS Certified, Data Analytics certifications). 
+- Tailor the resume to the job description — include keywords such as “Python,” “SolidWorks,” or “Power BI” if required. 
+- Quantify achievements (e.g., “Reduced processing time by 30% through code optimization”). 
+- Mention soft skills: communication, teamwork, and leadership are highly valued in Malaysian companies.
+
+[Screening Guidelines for Recruiters]
+- Look for alignment between skills listed in the resume and job description requirements. 
+- Check technical depth: projects, tools, and certifications should match role expectations. 
+- For fresh graduates: prioritize internship experience, final year project, and extracurricular leadership. 
+- For experienced hires: look at career progression, measurable outcomes, and relevance of past roles. 
+- Red flags: vague descriptions, no technical tools mentioned, long resumes (>3 pages), or lack of quantifiable achievements.
