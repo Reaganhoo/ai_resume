@@ -84,5 +84,6 @@ UI: Gradio
 
 Hoo Weng Lok
 📍 Malaysia | 🎓 Mechatronics Engineering Student | 🤖 AI Enthusiast
+🔗 [LinkedIn](https://www.linkedin.com/in/hoo-weng-lok-a2a75a222/)  
 
 
