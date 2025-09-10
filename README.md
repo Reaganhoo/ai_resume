@@ -48,12 +48,12 @@ https://github.com/Reaganhoo/ai_resume.git
 cd ai_resume
 ```
 
-###2️⃣ Install dependencies
+### 2️⃣ Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-###3️⃣ Run the app
+### 3️⃣ Run the app
 ```bash
 python prototype.py
 ```
