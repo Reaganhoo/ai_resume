@@ -25,19 +25,19 @@ Resume (PDF) → PyMuPDF (extract text) → Knowledge Base (RAG) → Phi-2 (LLM)
 ## 🛠️ Tech Stack
 - [Python 3.10+](https://www.python.org/)  
 - [PyMuPDF](https://pymupdf.readthedocs.io/) → Resume text extraction  
-- [FAISS](https://github.com/facebookresearch/faiss) *(future extension for vector search)*  
 - [Hugging Face Transformers](https://huggingface.co/docs/transformers/) → LLM (Phi-2)  
 - [Gradio](https://gradio.app/) → Simple interactive UI  
 
 ---
 
 ## 📂 Project Structure
+```bash
 .
 ├── prototype.py # Main application file
 ├── knowledge_base.txt # Engineering job descriptions (RAG knowledge base)
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
-
+```
 ---
 
 ## ⚡ Installation & Usage
@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 ###3️⃣ Run the app
 ```bash
-prototype prototype.py
+python prototype.py
 ```
 
 Gradio will launch on:
